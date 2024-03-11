@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1dcc7e3-cf50-4fc0-854f-470edaf69f1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labwork4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/emoji02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/emoji03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/emoji04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/emoji05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/emoji06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/emoji_happy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/vienna_resize.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/whosNext_resize.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wildWorld-resize.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/BehindBlueEyes.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/Vienna.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/WildWorld.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/importAudio.java" afterDir="false" />
+    <list default="true" id="c1dcc7e3-cf50-4fc0-854f-470edaf69f1a" name="Changes" comment="labwork 4 draft">
+      <change afterPath="$PROJECT_DIR$/src/InternationalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -53,12 +36,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.InternationalNumbers.executor": "Run",
     "Application.Part1.executor": "Run",
+    "Application.Part2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/gm485/Documents/_y2/semester2/advProg/Labwork4/images",
+    "last_opened_file_path": "/home/gm485/Documents/_y2/semester2/advProg/Labwork4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +58,11 @@
       <recent name="$PROJECT_DIR$/sounds" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="vim" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,11 +72,47 @@
       <option name="presentableId" value="Default" />
       <updated>1709145900401</updated>
       <workItem from="1709145901762" duration="47000" />
-      <workItem from="1709148462109" duration="7879000" />
+      <workItem from="1709148462109" duration="8535000" />
+      <workItem from="1709162430253" duration="14000" />
+      <workItem from="1709162475035" duration="1532000" />
+      <workItem from="1709165860459" duration="10000" />
+      <workItem from="1709219605834" duration="164000" />
     </task>
+    <task id="LOCAL-00001" summary="labwork 4 draft">
+      <option name="closed" value="true" />
+      <created>1709160940944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709160940944</updated>
+    </task>
+    <task id="LOCAL-00002" summary="labwork 4 draft">
+      <option name="closed" value="true" />
+      <created>1709160983402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709160983402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="labwork 4 draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="labwork 4 draft" />
   </component>
 </project>
